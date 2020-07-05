@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+xx:
+    path: /show
+    controller: App\Controller\UsersController::show
